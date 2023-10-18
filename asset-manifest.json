@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/gdsc-task/static/css/main.0664d19b.css",
+    "main.js": "/gdsc-task/static/js/main.0777a09e.js",
+    "static/js/787.098916ea.chunk.js": "/gdsc-task/static/js/787.098916ea.chunk.js",
+    "index.html": "/gdsc-task/index.html",
+    "main.0664d19b.css.map": "/gdsc-task/static/css/main.0664d19b.css.map",
+    "main.0777a09e.js.map": "/gdsc-task/static/js/main.0777a09e.js.map",
+    "787.098916ea.chunk.js.map": "/gdsc-task/static/js/787.098916ea.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0664d19b.css",
+    "static/js/main.0777a09e.js"
+  ]
+}
